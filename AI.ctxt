@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=AI
+comment1.params=
+comment1.target=AI()
+comment2.params=
+comment2.target=void\ launchQuizWindow()
+comment3.params=questionLabel\ answerButtons\ scoreLabel\ feedbackLabel
+comment3.target=void\ displayQuestion(javax.swing.JLabel,\ javax.swing.JRadioButton[],\ javax.swing.JLabel,\ javax.swing.JLabel)
+comment4.params=answerGroup\ feedbackLabel\ answerButtons\ scoreLabel
+comment4.target=void\ validateAnswer(javax.swing.ButtonGroup,\ javax.swing.JLabel,\ javax.swing.JRadioButton[],\ javax.swing.JLabel)
+comment5.params=questionLabel\ answerButtons\ progressBar\ feedbackLabel\ scoreLabel\ quizFrame
+comment5.target=void\ goToNextQuestion(javax.swing.JLabel,\ javax.swing.JRadioButton[],\ javax.swing.JProgressBar,\ javax.swing.JLabel,\ javax.swing.JLabel,\ javax.swing.JFrame)
+comment6.params=questionLabel\ answerButtons\ progressBar\ feedbackLabel\ scoreLabel
+comment6.target=void\ goToPreviousQuestion(javax.swing.JLabel,\ javax.swing.JRadioButton[],\ javax.swing.JProgressBar,\ javax.swing.JLabel,\ javax.swing.JLabel)
+comment7.params=
+comment7.target=void\ openAnimationFrame()
+comment8.params=e
+comment8.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
