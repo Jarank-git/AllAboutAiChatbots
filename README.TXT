@@ -19,4 +19,4 @@ Java Swing for GUI components
 
 GETTING IT STARTED
 
-Clone the repository: git clone https://github.com/your-username/ai-chatbot-learning-app.git
+Clone the repository: git clone https://github.com/jarank-git/ALlAboutAiChatbots.git
